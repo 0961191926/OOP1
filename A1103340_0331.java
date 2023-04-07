@@ -48,7 +48,7 @@ public class A1103340_0331 {
        
 
         Scanner scanner = new Scanner(System.in);
-        showinfo();
+        Ashowinfo();
         System.out.print("Enter time (in minutes) for Snow Bao: ");
         double time = scanner.nextDouble();
         
